@@ -1,3 +1,6 @@
+jwt:
+  secret: 'uh912wu91212u12ada9812819221cdbuawd128701230jsiw012811213121sh1s2'
+
 server:
   port: 8081
 
